@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on @3pillarglobal as a Senior Software Engineer
+- 🔭 I’m currently working @3pillarglobal as a Senior Software Engineer
 - 🌱 I’m currently learning Java, Go and Terraform
 - 👯 I’m looking to collaborate on Open Source
 - 💬 Ask me about Backend and Cloud Computing
